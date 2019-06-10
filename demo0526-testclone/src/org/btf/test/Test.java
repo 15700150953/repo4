@@ -23,5 +23,8 @@ public class Test {
         System.out.println(student.equals(student_clone));
         System.out.println(student_clone.getClazz() == student.getClazz());
     }
-
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
