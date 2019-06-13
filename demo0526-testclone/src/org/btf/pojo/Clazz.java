@@ -6,6 +6,7 @@ public class Clazz implements Serializable{
     private String clazzId;
     private String clazzName;
     private int count;
+    private int bitengfei;
 
     public void setClazzId(String clazzId) {
         this.clazzId = clazzId;
